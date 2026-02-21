@@ -63,3 +63,33 @@ The goal is to develop:
 ## Repository Structure
 
 Example structure:
+
+```
+science-teaching-notebooks/
+│
+├── notebooks/
+│ ├── physics/
+│ │ ├── mechanics/
+│ │ ├── oscillations/
+│ │ ├── electromagnetism/
+│ │ └── statistical_physics/
+│ │
+│ ├── mathematics/
+│ │ ├── calculus/
+│ │ ├── differential_equations/
+│ │ └── linear_algebra/
+│ │
+│ ├── computational/
+│ │ ├── numerical_methods/
+│ │ ├── monte_carlo/
+│ │ └── data_analysis/
+│ │
+│ └── projects/
+│
+├── figures/
+│
+├── requirements.txt
+│
+└── README.md
+```
+
