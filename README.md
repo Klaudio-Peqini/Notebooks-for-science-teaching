@@ -93,3 +93,52 @@ science-teaching-notebooks/
 └── README.md
 ```
 
+
+---
+
+## Topics Covered
+
+Examples include:
+
+### Physics
+
+- Kinematics
+- Newton’s Laws
+- Oscillations
+- Pendulum (simple and double)
+- Chaos
+- Energy conservation
+- Statistical physics
+- Random walks
+
+### Mathematics
+
+- Numerical differentiation
+- Numerical integration
+- Ordinary Differential Equations
+- Eigenvalues and eigenvectors
+
+### Computational Science
+
+- Euler method
+- Runge-Kutta methods
+- Monte Carlo simulations
+- Noise and stochastic processes
+
+### Data Science
+
+- Time series analysis
+- Signal processing
+- Curve fitting
+
+---
+
+## Requirements
+
+Python 3.10+ recommended.
+
+Install dependencies:
+
+```
+pip install -r requirements.txt
+```
