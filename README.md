@@ -156,94 +156,78 @@ pip install -r requirements.txt
 
 Start Jupyter:
 
+```
 jupyter notebook
+```
 
 or
 
+```
 jupyter lab
+```
 
 Navigate to the desired notebook and run the cells.
 
-How Students Should Use This Repository
+### How Students Should Use This Repository
 
 Recommended workflow:
 
-Read the theoretical introduction
+- Read the theoretical introduction
+- Run the notebook
+- Modify parameters
+- Observe changes
+- Answer exercises
+- Extend the notebook
 
-Run the notebook
-
-Modify parameters
-
-Observe changes
-
-Answer exercises
-
-Extend the notebook
-
-How Instructors Can Use This Repository
+### How Instructors Can Use This Repository
 
 Possible uses include:
 
-Lecture demonstrations
+- Lecture demonstrations
+- Homework assignments
+- Lab exercises
+- Student projects
+- Computational course modules
 
-Homework assignments
-
-Lab exercises
-
-Student projects
-
-Computational course modules
-
-Example Educational Goals
+### Example Educational Goals
 
 After completing the notebooks, students should be able to:
 
-Translate physical problems into code
+- Translate physical problems into code
+- Simulate physical systems
+- Visualize scientific data
+- Perform numerical experiments
+- Understand limitations of numerical methods
 
-Simulate physical systems
-
-Visualize scientific data
-
-Perform numerical experiments
-
-Understand limitations of numerical methods
-
-Future Development
+### Future Development
 
 Planned additions:
 
-Analytical Mechanics notebooks
+- Analytical Mechanics notebooks
+- Chaos and nonlinear dynamics
+- Statistical mechanics simulations
+- Machine learning in physics
+- HPC-based notebooks
 
-Chaos and nonlinear dynamics
-
-Statistical mechanics simulations
-
-Machine learning in physics
-
-HPC-based notebooks
-
-Contribution
+### Contribution
 
 Contributions are welcome.
 
 Possible contributions include:
 
-New notebooks
+- New notebooks
+- Improvements
+- Bug fixes
+- Teaching suggestions
 
-Improvements
-
-Bug fixes
-
-Teaching suggestions
-
-Author
+### Author
 
 **Klaudio Peqini**\
 Physicist\
 Computational Physics Researcher\
 Science Educator
 
-License
+### License
 
 This project is licensed under the MIT License.
 
