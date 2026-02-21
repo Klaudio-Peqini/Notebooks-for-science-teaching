@@ -231,7 +231,7 @@ Science Educator
 
 This project is licensed under the MIT License.
 
-Final Note
+### Final Note
 
 Science is not a spectator sport.
 
